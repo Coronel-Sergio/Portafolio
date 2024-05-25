@@ -1,0 +1,33 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+h1{
+    color: darkgray;
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 17px;
+}
+
+a {
+    color: darkgray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cadetblue;
+}
